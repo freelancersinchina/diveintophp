@@ -154,7 +154,7 @@ PHP的拦截器方法
 - __unset($property)     给未定义的属性调用unset()时被调用
 - __call($method,$arg_array)  调用未定义的方法时被调用
 
-###问题
+## 问题
 
 设计两个类,PersonWriter和Person,Person类中有一个私有属性PersonWriter，公共属性名字。PersonWriter用于打印Person的信息。将对Person调用的不存在方法都转发到PersonWriter上。
 

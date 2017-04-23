@@ -31,13 +31,14 @@ Dive into PHP 是一场关于深入学习PHP高级特性的进阶学习旅程。
 
 ### 基础知识
 - [PHP版本](/sections/circle1/php_version.md)
+- [PHP运行模式](/sections/circle1/php_runmode.md)
 - [深入面向对象](/sections/circle1/php_oop.md)
 - [密码数据安全](/sections/circle1/php_security.md)
 
 ### 工具介绍
 - Composer
-  - [Composer介绍使用]()
-  - [创建自己的Composer包]()
+  - [Composer介绍使用](/sections/circle1/composer_introduce.md)
+  - [创建自己的Composer包](/sections/circle1/composer_createownpackage.md)
 
 ## Circle 2:提升PHP能力
 
