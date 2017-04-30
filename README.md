@@ -49,7 +49,9 @@ Dive into PHP 是一场关于深入学习PHP高级特性的进阶学习旅程。
   - [开发自己的Stream Filter](/sections/circle2/stream_createownfilter.md)
 - [SPL必须了解的知识点]()
 - [PHP命令行简单开发](/sections/circle2/cli.md)
-- [PHP网络编程]()
+- PHP网络编程
+  - [Socket基础](/sections/circle2/socket.md)
+  - [基础服务器和客户端](/sctions/circle2/socket-basic.md)
 
 
 # 相关项目
