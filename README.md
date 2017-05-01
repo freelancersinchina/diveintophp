@@ -52,6 +52,8 @@ Dive into PHP 是一场关于深入学习PHP高级特性的进阶学习旅程。
 - PHP网络编程
   - [Socket基础](/sections/circle2/socket.md)
   - [基础服务器和客户端](/sections/circle2/socket-basic.md)
+  - [socket高级编程](/sections/circle2/socket-advanced.md)
+  - [socket项目：代理服务器](/sections/circle2/socket-proxy.md)
 
 
 # 相关项目
