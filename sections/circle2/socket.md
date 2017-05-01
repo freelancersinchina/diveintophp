@@ -24,7 +24,7 @@ socket是一种操作系统提供的进程之间通讯机制，可以是同一�
 
 能够唯一标示网络中的进程后，它们就可以利用socket进行通信了，什么是socket呢？我们经常把socket翻译为套接字，Socket 是对 TCP/IP 协议族的一种封装。从设计模式的角度看来，Socket其实就是一个门面模式，它把复杂的TCP/IP协议族隐藏在Socket接口后面，对用户来说，一组简单的接口就是全部，让Socket去组织数据，以符合指定的协议。
 
-![](/assets/circle2/socket.jpg)
+![](../../assets/circle2/socket.jpg)
 
 socket起源于UNIX，在Unix一切皆文件哲学的思想下，socket是一种"打开—读/写—关闭"模式的实现，服务器和客户端各自维护一个"文件"，在建立连接打开后，可以向自己文件写入内容供对方读取或者读取对方内容，通讯结束时关闭文件。
 
@@ -34,7 +34,7 @@ socket起源于UNIX，在Unix一切皆文件哲学的思想下，socket是一种
 
 socket是"打开—读/写—关闭"模式的实现，以使用TCP协议通讯的socket为例，其交互流程大概是这样子的
 
-![](/assets/circle2/socket-process.png)
+![](../../assets/circle2/socket-process.png)
 
 1. 服务器根据地址类型（ipv4,ipv6）、socket类型、协议创建socket
 2. 服务器为socket绑定ip地址和端口号
