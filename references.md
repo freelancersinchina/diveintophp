@@ -23,3 +23,6 @@
 - [三年以上php开发经验常见面试题](https://my.oschina.net/u/574366/blog/64814)
 - [phper需要了解的东东](http://blog.csdn.net/hguisu/article/details/7106280)
 - [求思路,一人说一个 PHP 的面试题吧](https://www.v2ex.com/t/341873)
+
+# 项目
+- [使用PHP编写HTTP服务器](https://panlatent.com/archives/use-php-compose-http-sever)
